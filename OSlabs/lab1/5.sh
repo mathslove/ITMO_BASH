@@ -1,6 +1,7 @@
 file="info.log"
-touch $file
 
 source="/var/log/anaconda/syslog"
+
+cat $source | awk '$2 = "INFO"'>$file
 
 exit 0
