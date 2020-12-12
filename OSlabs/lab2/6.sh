@@ -9,4 +9,7 @@ procinfo=$(find /proc -maxdepth 2 -name "status" -exec grep -H "VmRSS" {} \; |
 #echo $procinfo
 procid=$(echo $procinfo| awk -F "/" '{print $3}')
 procmem=$(echo $procinfo | awk '{print $2}')
+echo My results
 echo ProcessID=$procid ProcMem=$(echo "scale=2; $procmem/$mem_total*100"| bc -l)
+echo TOP results
+top -o %MEM | head -8 | tail -n +8 | awk '{print}'

@@ -1,0 +1,2 @@
+rm -rf ~/.trash
+rm -f ~/.trash.log

@@ -13,5 +13,5 @@
   2 ) vi ;;
   3 ) links ;;
   4 ) exit 0 ;;
-  * ) echo "Incorrect inoput"
+  * ) echo "Incorrect input"
  esac

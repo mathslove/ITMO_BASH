@@ -1,0 +1,326 @@
+top - 05:49:43 up  1:12,  2 users,  load average: 0.57, 0.77, 0.52
+Tasks:   2 total,   2 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,   1635.1 free,    133.0 used,     59.0 buff/cache
+MiB Swap:    820.0 total,    724.8 free,     95.2 used.   1591.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4609 root      20   0  236084  15316   1536 R  50.0   0.8   0:00.18 mem2.bash
+   4607 root      20   0  238592  17812   1664 R  43.8   1.0   0:00.20 mem.bash
+------
+top - 05:49:44 up  1:12,  2 users,  load average: 0.57, 0.77, 0.52
+Tasks:   2 total,   2 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 93.8 us,  6.2 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,   1547.8 free,    220.2 used,     59.0 buff/cache
+MiB Swap:    820.0 total,    725.1 free,     94.9 used.   1503.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4609 root      20   0  280568  59668   1536 R  50.0   3.2   0:00.76 mem2.bash
+   4607 root      20   0  282548  61900   1664 R  50.0   3.3   0:00.78 mem.bash
+------
+top - 05:49:45 up  1:12,  2 users,  load average: 0.57, 0.77, 0.52
+Tasks:   2 total,   2 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,   1458.1 free,    308.4 used,     60.5 buff/cache
+MiB Swap:    820.0 total,    725.3 free,     94.7 used.   1415.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4607 root      20   0  327692 107100   1728 R  50.0   5.7   0:01.37 mem.bash
+   4609 root      20   0  324656 103816   1600 R  43.8   5.5   0:01.34 mem2.bash
+------
+top - 05:49:46 up  1:12,  2 users,  load average: 0.57, 0.77, 0.52
+Tasks:   2 total,   2 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 94.4 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,   1357.6 free,    401.1 used,     68.3 buff/cache
+MiB Swap:    820.0 total,    725.6 free,     94.4 used.   1318.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4609 root      20   0  370592 149752   1600 R  52.9   8.0   0:01.94 mem2.bash
+   4607 root      20   0  373892 153300   1728 R  47.1   8.2   0:01.97 mem.bash
+------
+top - 05:49:47 up  1:12,  2 users,  load average: 0.77, 0.80, 0.54
+Tasks:   2 total,   2 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 93.8 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  6.2 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,   1268.9 free,    489.6 used,     68.5 buff/cache
+MiB Swap:    820.0 total,    725.6 free,     94.4 used.   1229.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4609 root      20   0  415604 194896   1600 R  53.3  10.4   0:02.53 mem2.bash
+   4607 root      20   0  418244 197652   1728 R  46.7  10.6   0:02.54 mem.bash
+------
+top - 05:49:49 up  1:12,  2 users,  load average: 0.77, 0.80, 0.54
+Tasks:   2 total,   2 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 93.3 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  6.7 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,   1180.3 free,    577.6 used,     69.2 buff/cache
+MiB Swap:    820.0 total,    725.6 free,     94.4 used.   1141.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4607 root      20   0  463124 242532   1728 R  50.0  13.0   0:03.14 mem.bash
+   4609 root      20   0  459164 238456   1600 R  43.8  12.7   0:03.11 mem2.bash
+------
+top - 05:49:50 up  1:12,  2 users,  load average: 0.77, 0.80, 0.54
+Tasks:   2 total,   2 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 93.8 us,  6.2 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,   1094.3 free,    663.4 used,     69.4 buff/cache
+MiB Swap:    820.0 total,    725.6 free,     94.4 used.   1055.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4609 root      20   0  502988 282280   1600 R  50.0  15.1   0:03.71 mem2.bash
+   4607 root      20   0  507080 286356   1728 R  50.0  15.3   0:03.73 mem.bash
+------
+top - 05:49:51 up  1:12,  2 users,  load average: 0.77, 0.80, 0.54
+Tasks:   2 total,   2 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 88.9 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  5.6 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,   1006.2 free,    751.3 used,     69.6 buff/cache
+MiB Swap:    820.0 total,    725.6 free,     94.4 used.    967.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4609 root      20   0  547736 326896   1600 R  47.1  17.5   0:04.30 mem2.bash
+   4607 root      20   0  551696 330972   1728 R  47.1  17.7   0:04.32 mem.bash
+------
+top - 05:49:52 up  1:12,  2 users,  load average: 1.03, 0.86, 0.56
+Tasks:   2 total,   2 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 88.9 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  5.6 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,    917.1 free,    839.2 used,     70.8 buff/cache
+MiB Swap:    820.0 total,    725.6 free,     94.4 used.    879.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4609 root      20   0  592088 371248   1600 R  50.0  19.8   0:04.90 mem2.bash
+   4607 root      20   0  596444 375852   1728 R  50.0  20.1   0:04.92 mem.bash
+------
+top - 05:49:54 up  1:12,  2 users,  load average: 1.03, 0.86, 0.56
+Tasks:   2 total,   2 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 88.2 us,  5.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  5.9 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,    829.5 free,    926.3 used,     71.2 buff/cache
+MiB Swap:    820.0 total,    725.6 free,     94.4 used.    791.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4607 root      20   0  640928 420204   1728 R  53.3  22.5   0:05.51 mem.bash
+   4609 root      20   0  636176 415336   1600 R  46.7  22.2   0:05.49 mem2.bash
+------
+top - 05:49:55 up  1:12,  2 users,  load average: 1.03, 0.86, 0.56
+Tasks:   2 total,   2 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 93.8 us,  6.2 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,    740.6 free,   1014.9 used,     71.5 buff/cache
+MiB Swap:    820.0 total,    725.6 free,     94.4 used.    702.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4609 root      20   0  680924 460216   1600 R  50.0  24.6   0:06.08 mem2.bash
+   4607 root      20   0  685940 465348   1728 R  50.0  24.9   0:06.10 mem.bash
+------
+top - 05:49:56 up  1:12,  2 users,  load average: 1.03, 0.86, 0.56
+Tasks:   2 total,   2 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 93.8 us,  6.2 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,    653.1 free,   1102.2 used,     71.7 buff/cache
+MiB Swap:    820.0 total,    725.6 free,     94.4 used.    615.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4609 root      20   0  725012 504304   1600 R  53.3  27.0   0:06.67 mem2.bash
+   4607 root      20   0  730292 509700   1728 R  46.7  27.2   0:06.69 mem.bash
+------
+top - 05:49:57 up  1:12,  2 users,  load average: 1.26, 0.91, 0.58
+Tasks:   2 total,   2 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 88.2 us,  5.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  5.9 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,    553.0 free,   1190.0 used,     84.1 buff/cache
+MiB Swap:    820.0 total,    725.6 free,     94.4 used.    521.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4607 root      20   0  775172 554580   1728 R  50.0  29.6   0:07.28 mem.bash
+   4609 root      20   0  769364 548656   1600 R  43.8  29.3   0:07.25 mem2.bash
+------
+top - 05:49:58 up  1:12,  2 users,  load average: 1.26, 0.91, 0.58
+Tasks:   2 total,   2 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,    451.6 free,   1277.3 used,     98.1 buff/cache
+MiB Swap:    820.0 total,    725.6 free,     94.4 used.    427.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4609 root      20   0  813188 592480   1600 R  50.0  31.7   0:07.84 mem2.bash
+   4607 root      20   0  820184 599460   1728 R  50.0  32.0   0:07.87 mem.bash
+------
+top - 05:50:00 up  1:12,  2 users,  load average: 1.26, 0.91, 0.58
+Tasks:   2 total,   2 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 93.8 us,  6.2 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,    360.5 free,   1366.5 used,    100.1 buff/cache
+MiB Swap:    820.0 total,    725.6 free,     94.4 used.    337.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4609 root      20   0  859124 638416   1600 R  43.8  34.1   0:08.44 mem2.bash
+   4607 root      20   0  864932 644340   1728 R  37.5  34.4   0:08.45 mem.bash
+------
+top - 05:50:01 up  1:12,  2 users,  load average: 1.26, 0.91, 0.58
+Tasks:   2 total,   2 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,    267.7 free,   1458.2 used,    101.2 buff/cache
+MiB Swap:    820.0 total,    725.6 free,     94.4 used.    244.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4609 root      20   0  904400 683560   1600 R  53.3  36.5   0:09.04 mem2.bash
+   4607 root      20   0  911792 691068   1728 R  53.3  36.9   0:09.06 mem.bash
+------
+top - 05:50:02 up  1:12,  2 users,  load average: 1.56, 0.98, 0.60
+Tasks:   2 total,   2 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,    176.1 free,   1548.0 used,    102.9 buff/cache
+MiB Swap:    820.0 total,    725.6 free,     94.4 used.    154.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4609 root      20   0  949544 728704   1600 R  50.0  38.9   0:09.64 mem2.bash
+   4607 root      20   0  957200 736476   1728 R  43.8  39.4   0:09.65 mem.bash
+------
+top - 05:50:03 up  1:12,  2 users,  load average: 1.56, 0.98, 0.60
+Tasks:   2 total,   2 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,     81.3 free,   1635.1 used,    110.7 buff/cache
+MiB Swap:    820.0 total,    725.6 free,     94.4 used.     63.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4609 root      20   0  992048 771208   1600 R  53.3  41.2   0:10.22 mem2.bash
+   4607 root      20   0 1002872 782148   1728 R  53.3  41.8   0:10.25 mem.bash
+------
+top - 05:50:07 up  1:12,  2 users,  load average: 1.56, 0.98, 0.60
+Tasks:   2 total,   2 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 86.0 us, 12.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  1.8 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,     69.8 free,   1717.1 used,     40.2 buff/cache
+MiB Swap:    820.0 total,    597.7 free,    222.3 used.     16.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4609 root      20   0 1105040 818108    864 R  39.6  43.7   0:11.72 mem2.bash
+   4607 root      20   0 1114676 824988    860 R  16.7  44.1   0:11.72 mem.bash
+------
+top - 05:50:09 up  1:12,  2 users,  load average: 2.00, 1.08, 0.63
+Tasks:   2 total,   2 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 91.7 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  2.8 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,     63.8 free,   1708.8 used,     54.5 buff/cache
+MiB Swap:    820.0 total,    403.8 free,    416.2 used.     18.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4609 root      20   0 1198892 813132    652 R  45.2  43.5   0:12.96 mem2.bash
+   4607 root      20   0 1208792 820032    636 R  25.8  43.8   0:12.96 mem.bash
+------
+top - 05:50:12 up  1:12,  2 users,  load average: 2.24, 1.14, 0.66
+Tasks:   2 total,   2 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 92.7 us,  4.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  2.4 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,     68.4 free,   1710.4 used,     48.2 buff/cache
+MiB Swap:    820.0 total,    243.0 free,    577.0 used.     19.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4609 root      20   0 1280732 813052    696 R  48.5  43.5   0:14.04 mem2.bash
+   4607 root      20   0 1289180 818236    688 R  18.2  43.7   0:14.02 mem.bash
+------
+top - 05:50:14 up  1:12,  2 users,  load average: 2.24, 1.14, 0.66
+Tasks:   2 total,   2 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 89.7 us,  7.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  2.6 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,     78.4 free,   1706.7 used,     41.9 buff/cache
+MiB Swap:    820.0 total,     77.7 free,    742.3 used.     26.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4609 root      20   0 1361780 810848    580 R  45.9  43.3   0:15.11 mem2.bash
+   4607 root      20   0 1371416 816212    580 R  21.6  43.6   0:15.11 mem.bash
+------
+top - 05:50:18 up  1:12,  2 users,  load average: 2.94, 1.31, 0.71
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 97.1 us,  2.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,    787.7 free,    974.4 used,     64.9 buff/cache
+MiB Swap:    820.0 total,    365.0 free,    454.9 used.    747.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4609 root      20   0 1474244 884264   1536 R  94.3  47.3   0:16.70 mem2.bash
+------
+top - 05:50:20 up  1:12,  2 users,  load average: 2.94, 1.31, 0.71
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 93.8 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  6.2 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,    665.0 free,   1064.9 used,     97.1 buff/cache
+MiB Swap:    820.0 total,    366.3 free,    453.7 used.    640.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4609 root      20   0 1564928 974816   1536 R  99.9  52.1   0:17.88 mem2.bash
+------
+top - 05:50:21 up  1:12,  2 users,  load average: 2.94, 1.31, 0.71
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 93.3 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  6.7 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,    579.5 free,   1149.8 used,     97.7 buff/cache
+MiB Swap:    820.0 total,    366.3 free,    453.7 used.    554.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4609 root      20   0 1651520   1.0g   1536 R  99.9  56.7   0:19.02 mem2.bash
+------
+top - 05:50:22 up  1:12,  2 users,  load average: 2.95, 1.33, 0.73
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 93.8 us,  6.2 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,    493.6 free,   1234.8 used,     98.6 buff/cache
+MiB Swap:    820.0 total,    366.3 free,    453.7 used.    469.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4609 root      20   0 1737320   1.1g   1536 R  99.9  61.3   0:20.16 mem2.bash
+------
+top - 05:50:23 up  1:12,  2 users,  load average: 2.95, 1.33, 0.73
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,    404.9 free,   1322.8 used,     99.4 buff/cache
+MiB Swap:    820.0 total,    366.5 free,    453.4 used.    381.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4609 root      20   0 1826024   1.2g   1536 R  93.8  66.1   0:21.32 mem2.bash
+------
+top - 05:50:24 up  1:12,  2 users,  load average: 2.95, 1.33, 0.73
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 93.8 us,  6.2 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,    318.6 free,   1408.5 used,     99.9 buff/cache
+MiB Swap:    820.0 total,    366.8 free,    453.2 used.    295.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4609 root      20   0 1912880   1.3g   1536 R  93.3  70.7   0:22.45 mem2.bash
+------
+top - 05:50:26 up  1:12,  2 users,  load average: 2.95, 1.33, 0.73
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,    231.7 free,   1494.9 used,    100.5 buff/cache
+MiB Swap:    820.0 total,    366.8 free,    453.2 used.    208.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4609 root      20   0 2000396   1.3g   1536 R  99.9  75.4   0:23.60 mem2.bash
+------
+top - 05:50:27 up  1:13,  2 users,  load average: 3.03, 1.38, 0.74
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,    143.3 free,   1580.5 used,    103.3 buff/cache
+MiB Swap:    820.0 total,    366.8 free,    453.2 used.    121.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4609 root      20   0 2087516   1.4g   1536 R  99.9  80.0   0:24.74 mem2.bash
+------
+top - 05:50:28 up  1:13,  2 users,  load average: 3.03, 1.38, 0.74
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 78.9 us, 10.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  5.3 hi,  5.3 si,  0.0 st
+MiB Mem :   1827.1 total,     78.9 free,   1660.3 used,     87.9 buff/cache
+MiB Swap:    820.0 total,    361.7 free,    458.3 used.     49.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4609 root      20   0 2173052   1.5g   1536 R  86.7  84.3   0:25.87 mem2.bash
+------
+top - 05:50:30 up  1:13,  2 users,  load average: 3.03, 1.38, 0.74
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 90.0 us,  6.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  3.3 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,     62.7 free,   1719.5 used,     44.9 buff/cache
+MiB Swap:    820.0 total,    254.3 free,    565.7 used.     12.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4609 root      20   0 2342408   1.6g    800 R  89.7  87.6   0:28.11 mem2.bash
+------
+top - 05:50:33 up  1:13,  2 users,  load average: 3.11, 1.42, 0.76
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 89.7 us, 10.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,     68.5 free,   1707.1 used,     51.5 buff/cache
+MiB Swap:    820.0 total,     54.7 free,    765.3 used.     21.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4609 root      20   0 2533148   1.5g    700 R  82.8  86.8   0:30.63 mem2.bash
+------
+top - 05:50:37 up  1:13,  2 users,  load average: 3.11, 1.42, 0.76
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,  0.0 id, 83.3 wa, 16.7 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,   1622.6 free,    114.5 used,     90.0 buff/cache
+MiB Swap:    820.0 total,    723.4 free,     96.6 used.   1594.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
